@@ -14,3 +14,4 @@ else:
     print("El factorial de", num, "es", factorial(num))
 
 print("Este es un proyecto en GitHub")
+Print("Creado por CreamySweets")
